@@ -1,6 +1,6 @@
 # Giuaky
 ## 1.sql command
--Dựa trên mô tả hãy viết csdl tạo database cho từng lớp trong sql server
+-Dựa trên mô tả hãy viết csdl tạo database cho từng lớp trong sql server và insert thêm dữ liệu
 ## 2.controller, service, repository and model command
 -Tôi đang dùng Spring MVC với JDBC và Hibernate (KHÔNG dùng JPA ) sử dụng . 
 - Hãy tạo các lớp dùng springframework.stereotype 
