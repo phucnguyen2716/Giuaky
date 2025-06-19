@@ -12,4 +12,6 @@
 ## 3.Đường dẫn
 -${pageContext.request.contextPath}
 ## 4.Header, Footer và main
-
+-Trong folder view chứa folder layout  gồm header,footer và main
+-body o day chua view của các class controller 
+-chỉnh sửa header footer và controller
