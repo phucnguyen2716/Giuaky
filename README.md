@@ -8,7 +8,7 @@
 - Repository: dùng JDBC để kết nối và thao tác dữ liệu MySQL (SELECT, INSERT, UPDATE, DELETE). 
 - Service: chứa logic trung gian giữa Controller và Repository. 
 - Controller: dùng annotation @Controller, xử lý request từ client (@GetMapping, @PostMapping,...) và trả về view (jsp). Spring quản lý bằng @Autowired 
-- Bỏ qua: cấu trúc thư mục, file pom.xml, file dispatcher-servlet.xml
+- Bỏ qua: cấu trúc thư mục, file pom.xml, file dispatcher-servlet.xml vì tôi đã code rồi
 ## 3.Đường dẫn
 -${pageContext.request.contextPath}
 ## 4.Header, Footer và main
