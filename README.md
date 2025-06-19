@@ -9,5 +9,7 @@
 - Service: chứa logic trung gian giữa Controller và Repository. 
 - Controller: dùng annotation @Controller, xử lý request từ client (@GetMapping, @PostMapping,...) và trả về view (jsp). Spring quản lý bằng @Autowired 
 - Bỏ qua: cấu trúc thư mục, file pom.xml, file dispatcher-servlet.xml
-## Đường dẫn
+## 3.Đường dẫn
 -${pageContext.request.contextPath}
+## 4.Header, Footer và main
+
