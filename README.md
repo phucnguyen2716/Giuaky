@@ -1,4 +1,4 @@
-# Giuaky
+
 ## 1.sql command
 -Dựa trên mô tả hãy viết csdl tạo database cho từng lớp trong sql server và insert thêm dữ liệu
 ## 2.controller, service, repository and model command
